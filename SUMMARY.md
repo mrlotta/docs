@@ -1,4 +1,3 @@
-# Summary
+# Table of contents
 
-### Introduction
-* [About Penta-Arch](README.md)
+* [Page 1](README.md)
