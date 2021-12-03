@@ -1,5 +1,6 @@
 ---
 description: Advance EVM-Based framework
+status: development
 ---
 
 # PENTA GO
@@ -25,13 +26,14 @@ description: Advance EVM-Based framework
 └── utils
     ├── android
     │   └── cmd.go
-    ├── coloredText.go
-    ├── coloredText_test.go
+    ├── colorized
+    │   ├── coloredText.go
+    │   └── coloredText_test.go
     ├── extra
     │   ├── spinner.go
     │   └── spinner_test.go
     └── linux
 
-9 directories, 12 files
+10 directories, 12 files
 ```
 
