@@ -1,4 +1,4 @@
-# Table of contents
+# Summary
 
 * [About Penta-Arch](README.md)
 
