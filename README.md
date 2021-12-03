@@ -9,4 +9,7 @@ In the recent years, Blockchain has become a technology that is developing very 
 
 # What we build
 
-**Penta** Has ambitions to build comportable **Ecosystem** for both Clients and Developer
+**Penta** Has ambitions to build comportable **Ecosystem** for both Clients and Developer.
+
+Our main Services are listed here :
+* [Services](services/README.md)
