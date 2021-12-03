@@ -1,4 +1,4 @@
 # Summary
 
 ### Introduction
-* [About Penta-Arch] (README.md)
+* [About Penta-Arch](README.md)
