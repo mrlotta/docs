@@ -1,7 +1,8 @@
 # Summary
 
-# Penta-Arch
-* [About Penta-Arch](README.md)
+# Table of contents
+
+* [Wellcome to Penta-Arch](README.md)
 
 * [Services](services/README.md)
 
